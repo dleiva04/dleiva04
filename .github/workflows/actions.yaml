@@ -1,7 +1,0 @@
-name: deploy portfolio
-on: 
-  push:
-    branches:
-      - "main"
-jobs:
-  bui
